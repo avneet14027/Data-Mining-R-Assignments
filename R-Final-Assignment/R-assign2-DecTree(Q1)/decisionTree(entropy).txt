@@ -1,0 +1,53 @@
+> source('C:/Users/Purusharth/Desktop/Dsktop/My Courses/DMG/R/Assingment_2/FDecTree.R')
+> finalTree
+                         levelName
+1  Main                           
+2   °--Sex                        
+3       ¦--Male                   
+4       ¦   °--Class              
+5       ¦       ¦--3rd            
+6       ¦       ¦   °--Age        
+7       ¦       ¦       ¦--Child  
+8       ¦       ¦       ¦   °--No 
+9       ¦       ¦       °--Adult  
+10      ¦       ¦           °--No 
+11      ¦       ¦--1st            
+12      ¦       ¦   °--Age        
+13      ¦       ¦       ¦--Adult  
+14      ¦       ¦       ¦   °--No 
+15      ¦       ¦       °--Child  
+16      ¦       ¦           °--Yes
+17      ¦       ¦--2nd            
+18      ¦       ¦   °--Age        
+19      ¦       ¦       ¦--Adult  
+20      ¦       ¦       ¦   °--No 
+21      ¦       ¦       °--Child  
+22      ¦       ¦           °--Yes
+23      ¦       °--Crew           
+24      ¦           °--Age        
+25      ¦               °--Adult  
+26      ¦                   °--No 
+27      °--Female                 
+28          °--Class              
+29              ¦--3rd            
+30              ¦   °--Age        
+31              ¦       ¦--Child  
+32              ¦       ¦   °--No 
+33              ¦       °--Adult  
+34              ¦           °--No 
+35              ¦--1st            
+36              ¦   °--Age        
+37              ¦       ¦--Adult  
+38              ¦       ¦   °--Yes
+39              ¦       °--Child  
+40              ¦           °--Yes
+41              ¦--2nd            
+42              ¦   °--Age        
+43              ¦       ¦--Adult  
+44              ¦       ¦   °--Yes
+45              ¦       °--Child  
+46              ¦           °--Yes
+47              °--Crew           
+48                  °--Age        
+49                      °--Adult  
+50                          °--Yes
